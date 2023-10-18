@@ -1,0 +1,4 @@
+Step 1: Create a variable to hold the cards
+Step 2: Compare the 1st card to the next
+Step 3: If the 1st greater than the next flop the position
+Step 4: Repeat step 2 and 3 until all the cards are sorted
